@@ -4,7 +4,7 @@
 
 # Site
 title: 念念居
-subtitle: 一个蹩脚工程师的碎碎念
+subtitle: 一个的蹩工程师的脚碎碎念
 description: 
 author: leon
 language: zh
@@ -12,7 +12,7 @@ timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://leonliqiang01.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
